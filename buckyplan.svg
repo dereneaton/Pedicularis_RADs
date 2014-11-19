@@ -36,13 +36,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1771"
-     inkscape:window-height="1080"
+     inkscape:window-width="1693"
+     inkscape:window-height="1092"
      id="namedview2797"
      showgrid="false"
-     inkscape:zoom="0.95353535"
-     inkscape:cx="544.67799"
-     inkscape:cy="429.14649"
+     inkscape:zoom="10.788021"
+     inkscape:cx="143.19646"
+     inkscape:cy="586.27149"
      inkscape:window-x="55"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
@@ -8257,12 +8257,12 @@
   <text
      sodipodi:linespacing="125%"
      id="text6622"
-     y="249.43814"
+     y="253.21356"
      x="497.86301"
      style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-       y="249.43814"
+       y="253.21356"
        x="497.86301"
        id="tspan6624"
        sodipodi:role="line">&quot;oederi&quot;</tspan></text>
@@ -9364,14 +9364,14 @@
      sodipodi:open="true" />
   <path
      sodipodi:type="arc"
-     style="fill:none;stroke:#ff0400;stroke-width:2.46963382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.47945204;stroke-dasharray:none;stroke-dashoffset:2.70940004"
+     style="fill:none;stroke:#ff0400;stroke-width:3.7492578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.47945204;stroke-dasharray:none;stroke-dashoffset:2.70940004"
      id="path12683-1"
      sodipodi:cx="55.246464"
      sodipodi:cy="124.95535"
      sodipodi:rx="8.3425865"
      sodipodi:ry="8.3425865"
      d="m 63.575002,124.47142 a 8.3425865,8.3425865 0 1 1 -0.0029,-0.0476"
-     transform="matrix(1.2802534,0,0,1.2802534,52.90204,178.27582)"
+     transform="matrix(1.4079444,0,0,1.4079444,45.896426,162.30777)"
      sodipodi:start="6.2251449"
      sodipodi:end="12.502617"
      sodipodi:open="true" />
@@ -9649,7 +9649,7 @@
      sodipodi:rx="8.3425865"
      sodipodi:ry="8.3425865"
      d="m 63.575002,124.47142 a 8.3425865,8.3425865 0 1 1 -0.0029,-0.0476"
-     transform="matrix(1.6703514,0,0,1.6703514,31.399212,129.49784)"
+     transform="matrix(1.9528325,0,0,1.9528325,15.741293,94.23473)"
      sodipodi:start="6.2251449"
      sodipodi:end="12.502617"
      sodipodi:open="true" />
@@ -9701,4 +9701,16 @@
          x="790.71185"
          sodipodi:role="line">BUCKy Test 3</tspan></text>
   </g>
+  <text
+     xml:space="preserve"
+     style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="497.86301"
+     y="241.88728"
+     id="text14385"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan14387"
+       x="497.86301"
+       y="241.88728"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">&quot;bella&quot;</tspan></text>
 </svg>
