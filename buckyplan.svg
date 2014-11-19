@@ -14,7 +14,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="PED_d10m10.tre.svg">
+   sodipodi:docname="buckyplan.png">
   <metadata
      id="metadata2799">
     <rdf:RDF>
@@ -9258,6 +9258,14 @@
      id="path6848"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
+  <rect
+     style="opacity:0.58436213000000004;fill:#ffe9e9;fill-opacity:1;stroke:#000000;stroke-width:0.54160260999999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.70940003999999979"
+     id="rect7279"
+     width="176"
+     height="32"
+     x="958.52203"
+     y="121.6"
+     ry="0.66666669" />
   <text
      xml:space="preserve"
      style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -9784,4 +9792,28 @@
      d="m 960,-48 128,0"
      style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      sodipodi:nodetypes="cc" />
+  <rect
+     style="opacity:0.58436213999999997;fill:#007aff;fill-opacity:0.23744293;stroke:#000000;stroke-width:2.39999999999999991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.70940003999999979"
+     id="rect7273"
+     width="144"
+     height="768"
+     x="38.399994"
+     y="16"
+     ry="16" />
+  <rect
+     ry="15.666667"
+     y="16"
+     x="96"
+     height="752"
+     width="160"
+     id="rect7275"
+     style="opacity:1;fill:#ff0400;fill-opacity:0.08675798999999999;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.36986300000000000;stroke-dasharray:none;stroke-dashoffset:2.70940003999999979" />
+  <rect
+     ry="0.66666669"
+     y="121.6"
+     x="687.99976"
+     height="32"
+     width="176"
+     id="rect7277"
+     style="opacity:0.58436213;fill:#007aff;fill-opacity:0.23744291;stroke:#000000;stroke-width:0.54160261;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.70940004" />
 </svg>
